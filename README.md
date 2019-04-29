@@ -6,3 +6,5 @@ Le fichier Monstres.txt du dossier CrawlerBestiaire contient la liste des monstr
 Le fichier IndexeMonsterSpell du dossier Indexing contient l'indexation inverse, c'est-à-dire, le nom du sort et ensuite la liste des monstres le possédant. Il est issu du fichier binaire part-0000 du dossier ReversedIndexing.txt
 Le fichier Spells contient le détail de tous les sorts (leur nom, leur composantes, leurs classes, leur description)
 L'interface est comprise dans le dossier "applicationjava_mysql". Elle a été faite avec NetBeans.
+
+Les 4 images sont des screens de l'interface et de la base de données locale.
